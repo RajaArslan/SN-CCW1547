@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>Demo App at nowforum</description>
+        <device_type>browser</device_type>
+        <hint>Demo App at nowforum</hint>
+        <name/>
+        <order/>
+        <roles>x_snc_ccw1547.hello_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-16 10:09:24</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>98ea859520ac00107f44b4d3e3abf22f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CCW1547 Hello World</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="CCW1547 Hello World" source="x_snc_ccw1547">5f49cd5520ac00107f44b4d3e3abf221</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CCW1547 Hello World">5f49cd5520ac00107f44b4d3e3abf221</sys_scope>
+        <sys_update_name>sys_app_application_98ea859520ac00107f44b4d3e3abf22f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-16 10:09:24</sys_updated_on>
+        <title>CCW1547 Hello World</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
